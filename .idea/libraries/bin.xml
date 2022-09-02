@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/EatAdvisor - Ristoratori.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/EatAdvisor - Clienti.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+I file di dati verranno generati automaticamente dal programma al seguente percorso:
+<user.home>/EatAdvisor
+			--> /EatAdvisor.dati
+			--> /Utenti.dati
